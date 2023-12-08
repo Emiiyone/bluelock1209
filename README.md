@@ -37,7 +37,3 @@
 - [参考記事]
 
 
-https://www.youtube.com/watch?v=VXWvfrmpapI
-
-https://codepen.io/franksLaboratory/pen/wvoLVMr
-
